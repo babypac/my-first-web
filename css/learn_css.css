@@ -1,0 +1,68 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    text-indent: 20px;
+    font-size: 1.2em;
+    padding: 15px;
+    background-color: lightblue;
+    width: 500px;
+    border-style: dotted;
+    border-width: 5px;
+    border-color: gray;
+    border-bottom: 5px solid salmon;
+    margin: auto;
+    margin-bottom: 25px;
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+    text-align: center;
+}
+
+a:link {
+    color: gray;
+}
+
+a:visited {
+    color:green;
+}
+
+a:hover {
+    color: hotpink;
+    font-size: 1.2em;
+}
+
+a:active {
+    color: blue;
+}
+
+p:hover {
+    background-color: ivory;
+}
+
+img {
+    width: 200px;
+    margin: auto;
+    display: block;
+}
+
+header h1 {
+    color: red;
+}
+
+.p2p3 {
+    color: gray;
+}
+
+#heading2 {
+    color: green;
+}
