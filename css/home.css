@@ -107,18 +107,14 @@ footer p {
   margin-top: 50px;
 }
 
+#education li {
+  margin-bottom: 15px;
+}
+
 #education {
   font-size: 1em;
-  margin-bottom: 15px;
   text-align: center;
 }
-
-#publication li {
-  margin-bottom: 10px;
-}
-
-
-
 
 
 
